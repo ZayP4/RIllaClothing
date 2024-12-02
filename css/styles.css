@@ -144,3 +144,26 @@ footer a:visited {
 footer a:hover {
     text-decoration: underline;
 }
+
+.size{
+	width: 200px;
+}
+table{
+	width:100%;
+	 border: 2px solid;
+}
+th,tr,td{
+	 border: 2px solid;
+	 text-align: center;
+}
+.bold{
+	font-weight: bold;
+}
+.red{
+	color:red;
+}
+.bold{
+	font-weight: bold;
+	text-align:center;
+	font-size: 100%
+}
